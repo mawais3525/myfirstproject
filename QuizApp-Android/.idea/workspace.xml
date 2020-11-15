@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="84eb5ce7-c6e1-405a-9323-7b4f7982f9e6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/QuizApp-Android/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/QuizApp-Android/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/QuizApp-Android/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QuizApp-Android/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QuizApp-Android/.idea/copyright/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QuizApp-Android/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QuizApp-Android/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/QuizApp-Android/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/QuizApp-Android/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/QuizApp-Android/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/QuizApp-Android/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QuizApp-Android/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/QuizApp-Android/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/QuizApp-Android/app/src/main/res/layout/activity_developer.xml" beforeDir="false" afterPath="$PROJECT_DIR$/QuizApp-Android/app/src/main/res/layout/activity_developer.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/QuizApp-Android/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/QuizApp-Android/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/QuizApp-Android/app/src/main/res/layout/activity_questions.xml" beforeDir="false" afterPath="$PROJECT_DIR$/QuizApp-Android/app/src/main/res/layout/activity_questions.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/QuizApp-Android/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/QuizApp-Android/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/QuizApp-Android/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/QuizApp-Android/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/QuizApp-Android/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/QuizApp-Android/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/QuizApp-Android" />
+  </component>
+  <component name="ProjectId" id="1kDoPWDaF5a9ITi2p9MSXdjApwL" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="84eb5ce7-c6e1-405a-9323-7b4f7982f9e6" name="Default Changelist" comment="" />
+      <created>1605244498724</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605244498724</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="648" y="319" width="495" height="222" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1605244756348">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="648" y="319" width="495" height="222" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1600.860@0.0.1600.860" timestamp="1605244756348" />
+    <state x="92" y="92" width="1416" height="676" key="com.android.tools.idea.avdmanager.AvdListDialog" timestamp="1605244798885">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="92" y="92" width="1416" height="676" key="com.android.tools.idea.avdmanager.AvdListDialog/0.0.1600.860@0.0.1600.860" timestamp="1605244798885" />
+  </component>
+</project>
